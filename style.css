@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    color:navy;
+background-color: lightgreen;
+border: blue 5px solid; 
+border-radius: 1mm;
+}
+body{
+    background-color: lightgreen;
+    color: navy;
+}
+h1{
+   color: red;
+   text-align:center;
+}
+footer{
+    color:darkblue;
+    text-align: center;
+}
+nav a{
+margin:1px;
+padding:1px;
+}
